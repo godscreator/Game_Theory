@@ -1,1 +1,1 @@
-[link] (Draw_Algorithm/README.md)
+[linky] (Draw_Algorithm/README.md)
