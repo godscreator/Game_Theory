@@ -1,9 +1,9 @@
 from Deferred_Acceptance_Algorithm.Deferred import Hospital, Student, deferred_acceptance
 
 if __name__ == '__main__':
-    H = 4
-    S = 20
-    Hospital._max_capacity = 2
+    H = 2
+    S = 4
+    Hospital._max_capacity = 1
     hospital_dict = {}
     hospital_ids = []
     for _ in range(H):
